@@ -1,4 +1,4 @@
-# 00 Twitter Follow Card
+# 01 Twitter Follow Card
 
 Este es el proyecto usado para seguire el curso de React desde Cero de Miguel
 Ángel Durán (@midudev).
